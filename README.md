@@ -10,7 +10,7 @@ A modern and visually enhanced version of the qb-progressbar for FiveM's QBCore 
 ## Installation:
 Download or clone this repository to your resources folder.
 Add the resource to your server configuration (server.cfg):
-ensure qb-progressbar
+ensure progressbar
 Restart your server and enjoy the redesigned progress bar!
 ## Compatibility:
 Built specifically for QBCore framework.
