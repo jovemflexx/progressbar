@@ -17,4 +17,7 @@ Built specifically for QBCore framework.
 Tested with the latest QBCore updates.
 
 Preview:
+
+
+
 ![progressbar](https://github.com/user-attachments/assets/d2d5c226-3265-473e-80b4-36edcf1a9945)
